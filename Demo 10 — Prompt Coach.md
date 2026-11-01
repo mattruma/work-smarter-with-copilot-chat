@@ -1,5 +1,5 @@
 # Demo 10 — Prompt Coach
-
+## Setup
 Let’s work through a scenario.
 
 - 👤 You are a Recruiter
@@ -15,7 +15,7 @@ Let’s pin Prompt Coach to the Copilot app
 1. Click the **three dots (“…”)** next to **Prompt Coach**
 1. Click **Pin**
 1. Click **Prompt Coach** under **Pinned**
-
+## Prompts
 ```
 Help me generate a prompt to be used in Copilot to analyze a job description.
 ```
