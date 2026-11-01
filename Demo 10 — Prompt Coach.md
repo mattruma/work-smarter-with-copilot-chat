@@ -26,8 +26,7 @@ Create interview questions.
 The role is for a Sales Representative, and I am the hiring manager.
 ```
 ```
-Use the attached job description to identify the responsibilities, qualifications, skills, and experience relevant to the position.
-Use interviewing tips from https://fitsmallbusiness.com/interview-tips-for-hiring-managers as a guide for creating questions.
+Use the attached job description to identify the responsibilities, qualifications, skills, and experience relevant to the position. Use interviewing tips from https://fitsmallbusiness.com/interview-tips-for-hiring-managers as a guide for creating questions.
 ```
 Attached the file Tailspin_Toys_Sales_Representative_Job_Description.docx
 ```
