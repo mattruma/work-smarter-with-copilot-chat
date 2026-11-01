@@ -1,5 +1,7 @@
 # Demo 0 — Setup
 
+# Setup
+
 1. Navigate to https://copilot.cloud.Microsoft
 1. Click New
 1. Make sure Chat is selected
