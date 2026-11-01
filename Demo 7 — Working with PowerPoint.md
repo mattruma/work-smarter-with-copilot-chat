@@ -7,3 +7,10 @@ Attach the file generated from Demo 6 — Working with Word
 ```
 Tailspin_Toys_Key_Findings.docx
 ```
+```
+Apply the theme from the attached PowerPoint.
+```
+Attach the file
+```
+Tailspin_Toys_Template.pptx
+```
