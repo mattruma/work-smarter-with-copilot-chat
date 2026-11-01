@@ -3,13 +3,13 @@
 ## Prompts
 
 ```
-I am on the party planning committee. I need ideas for a fun remote team building event.
+I am on the party planning committee. I need three ideas for a fun remote team building event.
 ```
 
 ``` 
-Tailor these ideas for a team of 10 people composed of engineers, so they are a little nerdy.
+Tailor these ideas for a team of 10 people composed of engineers, so they need to be little nerdy.
 ```
 
 ```
-Draft nerdy awards and judging criteria.
+Draft five nerdy awards and judging criteria.
 ```
