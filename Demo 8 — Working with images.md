@@ -14,7 +14,7 @@ Review the packaging from a customer's perspective. What information is prominen
 ```
 Extract and organize the notes from the attached product brainstorming exercise.
 ```
-Attach the file 
+Attach the file https://github.com/mattruma/work-smarter-with-copilot-chat/blob/main/Tailspin_Toys_Brainstorming_Board.png
 ```
 Tailspin_Toys_Brainstorming_Board.png
 ```
