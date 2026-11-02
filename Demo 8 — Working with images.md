@@ -4,7 +4,7 @@
 ```
 Review this packaging prototype. Describe the visible product claims, features, instructions, and other information on the package. Don't assume anything that isn't visible. Keep the response concise and actionable.
 ```
-Attach the file 
+Attach the file https://github.com/mattruma/work-smarter-with-copilot-chat/blob/main/Tailspin_Toys_Packaging.png
 ```
 Tailspin_Toys_Packaging.png
 ```
