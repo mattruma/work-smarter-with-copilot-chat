@@ -368,3 +368,31 @@ Create 10–12 questions grouped by competency
 ```
 Prompt Coach was super helpful! Thanks for the suggestion! Any closing thoughts on using Prompt Coach?
 ```
+
+```
+Copilot Chat looks like something that can help me get my job done, but I am feeling a bit overwhelmed, where do I start?
+```
+
+```
+I’m still not sure where to start! Could I ask you to help me come up with ideas based on my job title?
+```
+
+```
+Clippy, do you think our audience is ready to start working with Copilot? I think so!
+```
+
+```
+Can we give them some homework? Any ideas?
+```
+
+```
+I think we are ready to wrap things up! What is coming up for our wonderful audience to continue their Copilot journey? I heard there will be sessions on Word & PowerPoint, Excel & OneDrive and more. When are those?
+```
+
+```
+If we only wanted them to remember one thing from our presentation today Clippy, what would it be?
+```
+
+```
+That's a wrap! Thanks for your help Clippy! Any last words?
+```
