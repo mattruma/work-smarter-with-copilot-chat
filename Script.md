@@ -47,3 +47,26 @@ What is a model?
 ```
 So you would recommend I just keep it on Auto?
 ```
+
+```
+What is going on in the chat area? What can I do there?
+```
+
+```
+I think we are ready for some demos! I am going to do those in a separate chat so hang tight Clippy!
+```
+
+### Demo 1 — Who am I?
+
+```
+Who am I? And don't wax philosophical on me, I know why I exist.
+```
+ 
+```
+What else do you know about me?
+```
+
+```
+Who are the awesome people I get to work with every day.
+```
+
