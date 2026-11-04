@@ -101,3 +101,11 @@ Demo 2 — Ideas for a fun team event is done! Can I ask you a question?
 ```
 What about security? Am I protected? Am I safe to use corporate data?
 ```
+
+```
+Clippy, I think we’ve established a good foundation! Do you think everyone is ready to dive in deeper! How’s the water?
+```
+
+```
+One second. I’m still thinking about those security points, how does this look in everyday practice? Can I experiment safely?
+```
