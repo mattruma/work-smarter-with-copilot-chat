@@ -386,11 +386,7 @@ Can we give them some homework? Any ideas?
 ```
 
 ```
-I think we are ready to wrap things up! What is coming up for our wonderful audience to continue their Copilot journey? I heard there will be sessions on Word & PowerPoint, Excel & OneDrive and more. When are those?
-```
-
-```
-If we only wanted them to remember one thing from our presentation today Clippy, what would it be?
+I think we are ready to wrap things up! If we only wanted them to remember one thing from our presentation today Clippy, what would it be?
 ```
 
 ```
