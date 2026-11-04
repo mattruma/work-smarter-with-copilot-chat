@@ -1,5 +1,7 @@
 # Script
 
+## Presentation
+
 ```
 Let’s get started! Clippy, why don’t you introduce yourself! 
 ```
@@ -56,7 +58,7 @@ What is going on in the chat area? What can I do there?
 I think we are ready for some demos! I am going to do those in a separate chat so hang tight Clippy!
 ```
 
-### Demo 1 — Who am I?
+## Demo 1 — Who am I?
 
 ```
 Who am I? And don't wax philosophical on me, I know why I exist.
@@ -70,3 +72,32 @@ What else do you know about me?
 Who are the awesome people I get to work with every day.
 ```
 
+## Presentation
+
+```
+Demo 1 — Who am I? is done! Hey, it looks like you can reference our other chats for context? Is that correct?
+```
+
+## Demo 2 — Ideas for a fun team event
+
+```
+I am on the party planning committee. Create three ideas for a fun remote team building event.
+```
+
+```
+Tailor these ideas for a team of 10 people composed of engineers, so they need to be little nerdy.
+```
+
+```
+Draft five nerdy awards and judging criteria.
+```
+
+## Presentation
+
+```
+Demo 2 — Ideas for a fun team event is done! Can I ask you a question?
+```
+
+```
+What about security? Am I protected? Am I safe to use corporate data?
+```
