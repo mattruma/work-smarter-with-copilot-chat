@@ -23,3 +23,15 @@ How can I access Copilot Chat? Where can I find it?
 ```
 I have heard it called Copilot Chat and Microsoft 365 Copilot? Which is it? What do I have?
 ```
+
+```
+Great information! Thanks for sharing Clippy! How about we take a quick tour of Copilot? What are the different parts of the user interface?
+```
+
+```
+Tell me more about Navigation? What can I do there?
+```
+
+```
+Mine looks a little different! In the past it used to say Chat, Cowork and Code along the top, now it just says Home and Code?
+```
