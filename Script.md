@@ -136,4 +136,53 @@ Note, the `/` character will show the prompt, select `Sasha Ouellet` and add a `
 Who is the Marketing Manager in our organization?
 ```
 
+## Demo 4 — Working with Outlook
+
+```
+Schedule a 25-minute meeting with /
+```
+
+Note, the `/` character will show the prompt, select `Billie Vester` and then paste the following:
+
+```
+ next week, what does his availability look like for afternoons?
+```
+
+```
+Include his manager.
+```
+
+```
+Schedule the meeting! I want to discuss a new product for our Tailspin Toys brand, include an agenda.
+```
+
+## Demo 5 — Working with Excel
+
+```
+Summarize customer sentiment for the attached Excel workbook, organize the feedback into major themes, identify the responses needing follow-up, and recommend three product improvements.
+```
+
+Attach the file `Tailspin_Toys _Customer_Feedback.xlsx`
+
+```
+Summarize the customer feedback into three bullets that can be shared with the product team.
+```
+ 
+```
+Draft an email with a short update to executive leadership with findings and recommended actions.
+```
+
+## Demo 6 — Working with Word
+
+```
+Compare the attached marketing plan and product rollout plan. Identify aligned decisions, conflicting assumptions, and missing dependencies.
+```
+Attach the files `Tailspin_Toys_Product_Rollout_Plan.docx` and `Tailspin_Toys_Marketing_Plan.docx`
+
+## Demo 7 — Working with PowerPoint
+
+## Demo 8 — Working with images
+
+
+
 
