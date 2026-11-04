@@ -107,5 +107,33 @@ Clippy, I think we’ve established a good foundation! Do you think everyone is 
 ```
 
 ```
+This is great to know! Is there anything you can share with me on what really makes Copilot Chat useful with my job?
+```
+
+```
 One second. I’m still thinking about those security points, how does this look in everyday practice? Can I experiment safely?
 ```
+
+```
+Let's take the plunge and do even more demos! Just a reminder Clippy, I am going to do these in separate chats, so we'll be back in about 10 minutes.
+```
+
+## Demo 3 — Working with people
+
+```
+Who is /
+```
+
+Note, the `/` character will show the prompt, select `Sydney Mattos` and add a `?`
+
+```
+Who reports to /
+```
+
+Note, the `/` character will show the prompt, select `Sasha Ouellet` and add a `?`
+
+```
+Who is the Marketing Manager in our organization?
+```
+
+
