@@ -19,3 +19,7 @@ What are some of things can Copilot Chat can help me do? I need specifics!
 ```
 How can I access Copilot Chat? Where can I find it?
 ```
+
+```
+I have heard it called Copilot Chat and Microsoft 365 Copilot? Which is it? What do I have?
+```
