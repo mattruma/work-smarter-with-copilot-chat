@@ -35,3 +35,15 @@ Tell me more about Navigation? What can I do there?
 ```
 Mine looks a little different! In the past it used to say Chat, Cowork and Code along the top, now it just says Home and Code?
 ```
+
+```
+What are all the controls at the top? Work IQ? Auto?
+```
+
+```
+What is a model?
+```
+
+```
+So you would recommend I just keep it on Auto?
+```
