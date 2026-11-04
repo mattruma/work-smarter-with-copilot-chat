@@ -177,9 +177,30 @@ Draft an email with a short update to executive leadership with findings and rec
 ```
 Compare the attached marketing plan and product rollout plan. Identify aligned decisions, conflicting assumptions, and missing dependencies.
 ```
+
 Attach the files `Tailspin_Toys_Product_Rollout_Plan.docx` and `Tailspin_Toys_Marketing_Plan.docx`
 
+```
+Summarize the strategy, major risks, and three decisions needed this week.
+```
+
+```
+Act as a skeptical finance leader. Ask five questions that these plans do not fully answer.
+```
+
+```
+Create a Word document capturing these findings called Tailspin_Toys_Launch_Strategy_Findings.docx.
+```
+
+Download the Word document, as it will be used in the next step.
+
 ## Demo 7 — Working with PowerPoint
+
+```
+Turn the attached Word document into an executive level presentation. Include a title, slide bullets, and concise speaker notes. Use the attached PowerPoint as a template for the generated presentation. Use the exact theming in the template, do not deviate from it the corporate branding. The PowerPoint presentation should be called Tailspin_Toys_Launch_Strategy_Findings.pptx.
+```
+
+Attach the files `Tailspin_Toys_Launch_Strategy_Findings.docx` and `Tailspin_Toys_Template.pptx`
 
 ## Demo 8 — Working with images
 
