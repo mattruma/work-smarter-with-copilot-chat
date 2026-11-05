@@ -10,7 +10,7 @@ This not really a demo, it's just the setup for the presentation.
 
 ### Slide — Work Smarter with Copilot Chat
 
-Good [TIME_OF_DAY], everyone, my name is [FIRST_NAME_AND_LAST_NAME]!
+_Good [TIME_OF_DAY], everyone, my name is [FIRST_NAME_AND_LAST_NAME]!
 
 I am an [JOB_TITLE] with [COMPANY_NAME].
 
@@ -18,7 +18,7 @@ Today I’d like to share with you how we all can work smarter with Copilot Chat
 
 Here's the fun twist: Copilot Chat is my co-presenter today, and most of what you'll see is live. 
 
-So, if anything goes sideways… well, we'll find out together!
+So, if anything goes sideways… well, we'll find out together!_
 
 ```
 Let’s get started! Clippy, why don’t you introduce yourself! 
