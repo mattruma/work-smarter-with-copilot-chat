@@ -52,6 +52,14 @@ Our goal is simple: you leave with at least one thing you'll try today!
 
 ### Slide — Meet Copilot Chat
 
+#### Speaker Notes
+
+Let's start with the basics.
+
+Before we ask Copilot to do anything, it helps to know three things: what it is, where to find it, and which version you've got.
+
+Think of it as a quick handshake before we start working together.
+
 ### Slide — Hi! I’m Copilot Chat!
 
 ```
