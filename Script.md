@@ -108,31 +108,35 @@ Draft five nerdy awards and judging criteria.
 
 ## Presentation
 
+### Slide — Security, data, and policy with Copilot Chat
+
 ```
-Demo 2 — Ideas for a fun team event is done! Can I ask you a question?
+Demo 1 — Who am I? and Demo 2 — Ideas for a fun team event are both done! Can I ask you a question?
 ```
 
 ```
 What about security? Am I protected? Am I safe to use corporate data?
 ```
 
+### Slide — Dive In — the Water’s Fine
+
 ```
 Clippy, I think we’ve established a good foundation! Do you think everyone is ready to dive in deeper! How’s the water?
 ```
+
+### Slide — Bring your work into the conversation
 
 ```
 This is great to know! Is there anything you can share with me on what really makes Copilot Chat useful with my job?
 ```
 
 ```
-One second. I’m still thinking about those security points, how does this look in everyday practice? Can I experiment safely?
-```
-
-```
 Let's take the plunge and do even more demos! Just a reminder Clippy, I am going to do these in separate chats, so we'll be back in about 10 minutes.
 ```
 
-## Demo 3 — Working with people
+## Demos
+
+### Demo 3 — Working with people
 
 ```
 Who is /
@@ -150,7 +154,7 @@ Note, the `/` character will show the prompt, select `Sasha Ouellet` and add a `
 Who is the Marketing Manager in our organization?
 ```
 
-## Demo 4 — Working with Outlook
+### Demo 4 — Working with Outlook
 
 ```
 Schedule a 25-minute meeting with /
@@ -170,7 +174,7 @@ Include his manager.
 Schedule the meeting! I want to discuss a new product for our Tailspin Toys brand, include an agenda.
 ```
 
-## Demo 5 — Working with Excel
+### Demo 5 — Working with Excel
 
 ```
 Summarize customer sentiment for the attached Excel workbook, organize the feedback into major themes, identify the responses needing follow-up, and recommend three product improvements.
@@ -186,7 +190,7 @@ Summarize the customer feedback into three bullets that can be shared with the p
 Draft an email with a short update to executive leadership with findings and recommended actions.
 ```
 
-## Demo 6 — Working with Word
+### Demo 6 — Working with Word
 
 ```
 Compare the attached marketing plan and product rollout plan. Identify aligned decisions, conflicting assumptions, and missing dependencies.
@@ -208,7 +212,7 @@ Create a Word document capturing these findings called Tailspin_Toys_Launch_Stra
 
 Download the Word document, as it will be used in the next step.
 
-## Demo 7 — Working with PowerPoint
+### Demo 7 — Working with PowerPoint
 
 ```
 Turn the attached Word document into an executive level presentation. Include a title, slide bullets, and concise speaker notes. Keep the overall theming minimal, the focus is on the content and the layout.
@@ -216,7 +220,7 @@ Turn the attached Word document into an executive level presentation. Include a 
 
 Attach the files `Tailspin_Toys_Launch_Strategy_Findings.docx`
 
-## Demo 8 — Working with images
+### Demo 8 — Working with images
 
 ```
 Review this packaging prototype. Describe the visible product claims, features, instructions, and other information on the package. Don't assume anything that isn't visible. Keep the response concise and actionable.
