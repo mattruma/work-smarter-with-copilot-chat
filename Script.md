@@ -10,6 +10,8 @@ This not really a demo, it's just the setup for the presentation.
 
 ### Slide — Work Smarter with Copilot Chat
 
+#### Speaker Notes
+
 Good [TIME_OF_DAY], everyone, my name is [FIRST_NAME_AND_LAST_NAME]!
 
 I am an [JOB_TITLE] with [COMPANY_NAME].
@@ -20,6 +22,7 @@ Here's the fun twist: Copilot Chat is my co-presenter today, and most of what yo
 
 So, if anything goes sideways… well, we'll find out together!
 
+#### Prompts
 ```
 Let’s get started! Clippy, why don’t you introduce yourself! 
 ```
