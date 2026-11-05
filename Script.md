@@ -29,9 +29,26 @@ Let’s get started! Clippy, why don’t you introduce yourself!
 
 ### Slide — What we’ll explore
 
+#### Prompts
+
 ```
 Thanks for the introduction Clippy, can you share what we are going to cover today?
 ```
+#### Speaker Notes
+
+Here’s what we’ll cover today.
+
+First, we'll meet Copilot Chat: what it is, where to find it, and a quick tour.
+
+Then we'll dive in and put it to work on real tasks: people, meetings, Excel, Word, PowerPoint, even images.
+
+Lots of demos!
+
+From there, you'll learn to prompt like a pro, and meet a coach that helps when you get stuck.
+
+And finally, we'll bring it home: how to start your day with Copilot, and where to go next.
+
+Our goal is simple: you leave with at least one thing you'll try today!
 
 ### Slide — Meet Copilot Chat
 
