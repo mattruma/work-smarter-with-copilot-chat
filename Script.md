@@ -1,5 +1,11 @@
 # Script
 
+## Demos
+
+### Demo 0 — Setup
+
+This not really a demo, it's just the setup for the presentation.
+
 ## Presentation
 
 ### Slide — Work Smarter with Copilot Chat
@@ -7,6 +13,8 @@
 ```
 Let’s get started! Clippy, why don’t you introduce yourself! 
 ```
+
+### Slide — Meet Copilot Chat
 
 ### Slide — What we’ll explore
 
@@ -118,11 +126,15 @@ Demo 1 — Who am I? and Demo 2 — Ideas for a fun team event are both done! Ca
 What about security? Am I protected? Am I safe to use corporate data?
 ```
 
+### Slide — Copilot Chat can build on earlier conversations
+
 ### Slide — Dive In — the Water’s Fine
 
 ```
 Clippy, I think we’ve established a good foundation! Do you think everyone is ready to dive in deeper! How’s the water?
 ```
+
+### Slide — Experiment confidently and keep your data safe
 
 ### Slide — Bring your work into the conversation
 
@@ -249,19 +261,29 @@ Make it look like a real, high-end action figure you'd find in a store, with dra
 Now make it even more ridiculous! Add three hilarious accessories every Sales Manager secretly needs.
 ```
 
+### Slide — Sample generated images
+
 ## Presentations
+
+### Slide — That’s a wrap! See? The water was fine!
 
 ```
 We’re back Clippy! Wow! That was a lot of demos! Guess that water is not too bad! We completed Demos 3-8 as defined in the PowerPoint, can you summarize what we learned?
 ```
 
+### Slide — Prompt Like a Pro
+
 ```
 This all seems magical; how can I get the most out of Copilot? How can I tell Copilot what to do effectively?
 ```
 
+### Slide — So… What exactly is a prompt?
+
 ```
 I think we got ahead of ourselves here, we haven’t even told the audience what a prompt is! Clippy, can you tell us?
 ```
+
+### Slide — Keys to writing an effective prompt
 
 ```
 Awesome! Now, tell me again, how can I write an effective prompt? What are the keys?
@@ -278,6 +300,8 @@ Love it! Great Conversations Start Easily! Even I should be able to remember tha
 ```
 Let’s do another demo, showing how to write an effective prompt! We’ll be right back Clipster!
 ```
+
+## Demos
 
 ## Demo 9 — Write an effective prompt
 
@@ -321,9 +345,13 @@ Create single prompt from this entire interaction.
 
 ## Presentation
 
+### Slide — Writing an effective prompt breakdown
+
 ```
 We’re back! Let’s review those keys again!
 ```
+
+### Slide — Ask → Review → Refine
 
 ```
 Do I have to write the perfect prompt, the first time? I am pretty good at explaining myself, but not that good!
@@ -337,13 +365,19 @@ Anything you would add to that?
 Hey you added one, "Repeat"! I love it!
 ```
 
+### Slide — Prompt tips
+
 ```
 Any other prompting tips you can share? Should they be short? Long? What if I get stuck?
 ```
 
+### Slide — Get Help Along the Way
+
 ```
 Is there anything that can help me write better prompts? Maybe an agent?
 ```
+
+### Slide — Meet Prompt Coach
 
 ```
 What is Prompt Coach? It sounds awesome! What can it help me do?
@@ -357,7 +391,9 @@ Where can I find Prompt Coach?
 I think we are onto our last demo, Demo 10 - Prompt Coach. Clippy can you share the scenario for this demo before we dive in?
 ```
 
-## Demo 10 — Prompt Coach
+## Demos
+
+### Demo 10 — Prompt Coach
 
 ```
 Help me generate a prompt to be used in Copilot to analyze a job description.
@@ -383,9 +419,15 @@ Create 10–12 questions grouped by competency
 
 ## Presentation
 
+### Slide — Prompt Coach: Your Prompt’s Personal Trainer
+
 ```
 Prompt Coach was super helpful! Thanks for the suggestion! Any closing thoughts on using Prompt Coach?
 ```
+
+### Slide — Start Your Day with Copilot
+
+### Slide — Start with the work you already do
 
 ```
 Copilot Chat looks like something that can help me get my job done, but I am feeling a bit overwhelmed, where do I start?
@@ -403,6 +445,14 @@ Are there any sample prompts available to me?
 What about Prompt Lab?
 ```
 
+### Slide — Meet Prompt Lab
+
+```
+What is Prompt Labl? Sounds like a great way to get started with Copilot!
+```
+
+### Slide — Your One-Week Copilot Challenge
+
 ```
 Clippy, do you think our audience is ready to start working with Copilot? I think so!
 ```
@@ -411,10 +461,16 @@ Clippy, do you think our audience is ready to start working with Copilot? I thin
 Can we give them some homework? Any ideas?
 ```
 
+### Slide — Take it Forward
+
+### Slide — Start with real work. Experiment freely. Add context. Check what matters. Keep what works. 
+
 ```
 I think we are ready to wrap things up! If we only wanted them to remember one thing from our presentation today Clippy, what would it be?
 ```
 
+### Slide — Thank You
+
 ```
-That's a wrap! Thanks for your help Clippy! Any last words?
+That's a wrap! Thanks for your help Clippy! Hopefully, we have inspired our audience to start using Copilot Chat today! Any last words?
 ```
