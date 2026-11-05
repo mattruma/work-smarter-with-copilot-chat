@@ -2,33 +2,47 @@
 
 ## Presentation
 
+### Slide — Work Smarter with Copilot Chat
+
 ```
 Let’s get started! Clippy, why don’t you introduce yourself! 
 ```
+
+### Slide — What we’ll explore
 
 ```
 Thanks for the introduction Clippy, can you share what we are going to cover today?
 ```
 
+### Slide — Hi! I’m Copilot Chat!
+
 ```
-What is Copilot Chat? 
+Excellent! Looks like a great agenda! Clippy, just what is Copilot Chat?
 ```
 
 ```
 What are some of things can Copilot Chat can help me do? I need specifics!
 ```
 
+### Slide — Three easy ways to open Copilot Chat
+
 ```
 How can I access Copilot Chat? Where can I find it?
 ```
 
+### Slide — What experience do you have?
+
 ```
-I have heard it called Copilot Chat and Microsoft 365 Copilot? Which is it? What do I have?
+I have heard it called Copilot Chat and Microsoft 365 Copilot? Which is it? What does our audience have?
 ```
+
+### Slide — Let’s take a tour of Copilot Chat!
 
 ```
 Great information! Thanks for sharing Clippy! How about we take a quick tour of Copilot? What are the different parts of the user interface?
 ```
+
+### Slide — Navigation menu
 
 ```
 Tell me more about Navigation? What can I do there?
@@ -37,6 +51,8 @@ Tell me more about Navigation? What can I do there?
 ```
 Mine looks a little different! In the past it used to say Chat, Cowork and Code along the top, now it just says Home and Code?
 ```
+
+### Slide — Status indicators
 
 ```
 What are all the controls at the top? Work IQ? Auto?
@@ -47,8 +63,10 @@ What is a model?
 ```
 
 ```
-So you would recommend I just keep it on Auto?
+So, you would recommend I just keep it on Auto?
 ```
+
+### Slide — Main chat area
 
 ```
 What is going on in the chat area? What can I do there?
@@ -58,7 +76,9 @@ What is going on in the chat area? What can I do there?
 I think we are ready for some demos! I am going to do those in a separate chat so hang tight Clippy!
 ```
 
-## Demo 1 — Who am I?
+## Demos
+
+### Demo 1 — Who am I?
 
 ```
 Who am I? And don't wax philosophical on me, I know why I exist.
@@ -72,13 +92,7 @@ What else do you know about me?
 Who are the awesome people I get to work with every day.
 ```
 
-## Presentation
-
-```
-Demo 1 — Who am I? is done! Hey, it looks like you can reference our other chats for context? Is that correct?
-```
-
-## Demo 2 — Ideas for a fun team event
+### Demo 2 — Ideas for a fun team event
 
 ```
 I am on the party planning committee. Create three ideas for a fun remote team building event.
