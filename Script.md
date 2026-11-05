@@ -374,7 +374,15 @@ Copilot Chat looks like something that can help me get my job done, but I am fee
 ```
 
 ```
-I’m still not sure where to start! Could I ask you to help me come up with ideas based on my job title?
+Better yet, could you to help me figure out ways to leverage Copilot Chat based on my job title or responsibilities?
+```
+
+```
+Are there any sample prompts available to me?
+```
+
+```
+What about Prompt Lab?
 ```
 
 ```
