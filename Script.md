@@ -23,14 +23,13 @@ So, if anything goes sideways… well, we'll find out together!
 ```
 Let’s get started! Clippy, why don’t you introduce yourself! 
 ```
-
-### Slide — Meet Copilot Chat
-
 ### Slide — What we’ll explore
 
 ```
 Thanks for the introduction Clippy, can you share what we are going to cover today?
 ```
+
+### Slide — Meet Copilot Chat
 
 ### Slide — Hi! I’m Copilot Chat!
 
